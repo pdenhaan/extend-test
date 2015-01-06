@@ -1,0 +1,14 @@
+.DS_Store
+docs
+libpeerconnection.log
+target
+.idea
+.lein*
+atlassian-ide-plugin.xml
+[#]*[#]
+.\#*
+.nrepl-port
+*sublime*
+*.map
+/.idea
+/*.iml
